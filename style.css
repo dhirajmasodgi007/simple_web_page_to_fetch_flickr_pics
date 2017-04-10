@@ -1,0 +1,103 @@
+/* Put your css in here */
+
+
+/* Put your css in here */
+
+
+body {
+  /* padding-top: 10px; */
+  margin: 0px;
+  border: blue;
+  height: 100%;
+}
+
+html
+{
+height : 100%;
+}
+
+input {
+  border-width: 5px;
+  margin-left: 1000px;
+  margin-top: 12px;
+  padding-top: 10px;
+}
+
+.navbar-fixed-bottom {
+  background-color: #A6ACAF;
+  -webkit-logical-height: 50px;
+}
+
+#bottom_nav{
+position: fixed;
+ bottom: 0;
+ width: 100%;
+}
+
+.navbar {
+  background-color: #52BE80;
+  height: 60px;
+}
+
+.jumbotron-fluid {
+  color: red;
+}
+
+.p {
+  text-decoration: underline;
+}
+
+h5 {
+  padding: initial;
+  margin: auto;
+  text-decoration: underline;
+}
+
+.table {
+  border: 1px solid #888;
+  border-radius: 5px;
+  width: auto;
+  height: 300px;
+  padding: 10px;
+}
+
+.td {
+  width: 33%;
+}
+
+#td1 {
+    box-shadow: inset 0px 0px 20px 20px black;
+background-color: #e82121;
+}
+
+#td2 {
+    box-shadow: inset 0 0 20px 20px orange;
+background-color: #48C9B0;
+}
+
+#td3 {
+    box-shadow: inset 0 0 20px 20px purple;
+background-color: #F8C471;
+}
+
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.inner-addon .glyphicon {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+
+.right-addon .glyphicon { right: 0px;}
+
+.right-addon input { padding-right: 30px; }
